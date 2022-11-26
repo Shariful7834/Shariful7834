@@ -9,7 +9,7 @@
   
 
 
-- 🔭 I’m currently working on [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
+- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
   
 
 - 🌱 I’m currently learning Complete web development From [Programming Hero](https://www.programming-hero.com)  
