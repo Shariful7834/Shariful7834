@@ -51,7 +51,7 @@
 <a href="https://twitter.com/shariful0933" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/codernoyon" target="_blank">
+<a href="https://dev.to/shariful7834" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/islammd2021/" target="_blank">
@@ -78,7 +78,7 @@
 <a href="https://www.behance.net/codernoyon" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/c/codernoyon" target="_blank">
+<a href="https://www.youtube.com/c/engr.net" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
