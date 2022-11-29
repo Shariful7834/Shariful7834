@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/D4D16AQENjRWGUNJqvQ/profile-displaybackgroundimage-shrink_350_1400/0/1665484001024?e=1671062400&v=beta&t=NOO0Ew-MiXFXkx2j5EC44iOM51nynqjKXkJBSpx5Q2o" align="center" height="" width="" />
-</div>  
-  
-
-# <div align="center">Hi 👋, I'm Md Shariful Islam</div> 
+# <div align="center">Hi there👋
+  I'm Md Shariful Islam- a software developer living in Dortmund</div> 
 
 ### <div align="center"> Web Developer</div>  
   
@@ -14,6 +10,7 @@
 
 - 🌱 I’m currently learning Complete web development From [Programming Hero](https://www.programming-hero.com)  
   
+🤔 Technologies I would like to learn next: GraphQL, NextJs
 
 - 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
   
