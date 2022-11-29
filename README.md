@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Complete web development From [Programming Hero](https://www.programming-hero.com)  
   
-🤔 Technologies I would like to learn next: GraphQL, NextJs
+- 🤔 Technologies I would like to learn next: GraphQL, NextJs
 
 - 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
   
