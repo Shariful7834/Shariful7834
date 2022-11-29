@@ -1,4 +1,4 @@
-# <div align="center">Hi there👋
+# <div align="left">Hi there👋
   I'm Md Shariful Islam- a Software developer living in Dortmund</div> 
 
 ### <div align="left"> Web Developer</div>  
