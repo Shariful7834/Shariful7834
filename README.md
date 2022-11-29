@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
   
-- ⚡ Fun fact: Photography, Photo Edit, Video Editing  
+- 🥳 Fun fact: I love to cook, I love to sing, I love to travel all over the world.
   
 
 
