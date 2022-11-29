@@ -1,9 +1,8 @@
 # <div align="center">Hi there👋
-  I'm Md Shariful Islam- a software developer living in Dortmund</div> 
+  I'm Md Shariful Islam- a Software developer living in Dortmund</div> 
 
-### <div align="center"> Web Developer</div>  
+### <div align="left"> Web Developer</div>  
   
-
 
 - 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
   
