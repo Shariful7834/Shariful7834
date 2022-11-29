@@ -14,14 +14,7 @@
 - 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
   
 - 🥳 Fun fact: I love to cook, I love to sing, I love to travel all over the world.
-  
-
-
-
-## About me
-<p style="font-size:16px;">I have two years of hands-on experience efficiently coding websites and applications using the latest HTML5, CSS3, JavaScript, React JS, Node Js, MySQL and MongoDB.
-
-</p>
+- 
 
 ## Languages and Tools  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
