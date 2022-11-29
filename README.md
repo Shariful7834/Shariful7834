@@ -38,15 +38,16 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/heroku-%23430098.svg" alt="Bash" height="50" />  
-https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)(https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img style="margin: 10px" src="https://img.shields.io/badge/heroku-%23430098.svg" alt="Bash" height="50" /> 
+    <img style="margin: 10px" src="https://img.shields.io/badge/heroku-%23430098.svg" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/-GraphQL-E10098" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37" alt="Bash" height="50" /> 
+      <img style="margin: 10px" src="https://img.shields.io/badge/jira-%230A0FFF.svg" alt="Bash" height="50" /> 
+
 </div>   
 
 <br/>  
