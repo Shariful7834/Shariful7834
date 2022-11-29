@@ -22,7 +22,7 @@
 <p style="font-size:16px;">I am Worked as a Front-End Developer with around 2 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
 </p>
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## Languages and Tools  
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
@@ -46,7 +46,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://img.shields.io/badge/jira-%230A0FFF.svg" alt="Bash" height="50" /> 
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+
 
 </div>   
 
