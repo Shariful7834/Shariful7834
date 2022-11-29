@@ -1,5 +1,5 @@
 # <div align="left">Hi there👋
-  I'm Md Shariful Islam- a Software developer living in Dortmund</div> 
+  I'm Md Shariful Islam- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
 
 ### <div align="left"> Web Developer</div>  
   
@@ -19,7 +19,8 @@
 
 
 ## About me
-<p style="font-size:16px;">I am Worked as a Front-End Developer with around 2 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
+<p style="font-size:16px;">I have two years of hands-on experience efficiently coding websites and applications using the latest HTML5, CSS3, JavaScript, React JS, Node Js, MySQL and MongoDB.
+
 </p>
 
 ## Languages and Tools  
