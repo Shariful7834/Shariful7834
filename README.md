@@ -46,6 +46,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://img.shields.io/badge/jira-%230A0FFF.svg" alt="Bash" height="50" /> 
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 
 </div>   
 
