@@ -11,7 +11,7 @@
   
 - 🤔 Technologies I would like to learn next: GraphQL, NextJs
 
-- 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
+- 👯 I’m looking to collaborate to [ProttoyTechLab](https://bit.ly/3HexVkX)  
   
 - 🥳 Fun fact: I love to cook, I love to sing, I love to travel all over the world.
 
