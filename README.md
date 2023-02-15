@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
   
 
-- 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://www.programming-hero.com](https://learnwithsumit.com/) 
+- 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
   
 - 🤔 Technologies I would like to learn next: GraphQL, NextJs.
 
