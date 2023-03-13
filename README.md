@@ -4,7 +4,7 @@
 ### <div align="left"> Web Developer</div>  
   
 
-- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
+- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student since 1st Sept 2022
   
 
 - 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
