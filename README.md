@@ -8,7 +8,7 @@
   
 
 - 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
-- 🌱 I’m currently learning -Next Level Web Development- TypeScript, Next.Js,Mongoose Master, Redux, Testing Titan, GraphQL, Cloud and AWS Ace, Docker, SWE [Programming Hero](https://web.programming-hero.com/) 
+- 🌱 I’m currently learning -Next Level Web Development- TypeScript, Next.Js,Mongoose Master, Redux, Testing Titan, GraphQL, Cloud and AWS Ace, Docker, SWE at [Programming Hero](https://web.programming-hero.com/) 
   
 - 🤔 Technologies I would like to learn next: GraphQL, NextJs.
 
