@@ -1,7 +1,7 @@
 # <div align="left">Hi there👋
   I'm Md Shariful Islam- a Software developer living in Dortmund, Germany. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
 
-<img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/coding.gif" width="320"   />
+
 
 ### <div align="left"> Web Developer</div>  
   
