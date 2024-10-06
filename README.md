@@ -4,9 +4,10 @@
 
 
 ### <div align="left"> Web Developer</div>  
-  
 
-- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student since Sept 2022
+- 🔭 I’m currently working at [SynoSys TU Dresden](https://synosys.github.io/)  as working student since Sept 2024
+
+- 🔭 Worked at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as a working student since Sept 2022
   
 
 - 🌱 I’m currently learning Complete Redux Course [Learn with Sumit](https://learnwithsumit.com/) 
