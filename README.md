@@ -49,7 +49,7 @@ I love working with **React, TypeScript, Node.js, Tailwind, and Astro**, and I f
 
 ## 🚀 What I'm Working On
 
-- Frontend Developer (Working Student) at **SynoSys — TU Dresden**  
+- Frontend Web Developer (Working Student) at **SynoSys — TU Dresden**  
 - Migrating large legacy systems to **Astro + Tailwind**  
 - Designing reusable React + TypeScript components  
 - Implementing REST APIs using React Query & OpenAPI  
@@ -61,11 +61,11 @@ I love working with **React, TypeScript, Node.js, Tailwind, and Astro**, and I f
 
 ## 🏢 Experience (Short & Relevant)
 
-**Frontend Developer — SynoSys, TU Dresden (Remote)**  
+**Frontend Web Developer — SynoSys, TU Dresden (Remote)**  
 *2024 – Present*  
 Working on scientific web platforms using React, TypeScript, Astro, and modern API integrations.
 
-**Frontend Developer — ISD Software & Systeme GmbH**  
+**Web Developer — ISD Software & Systeme GmbH**  
 *2022 – 2023*  
 Built and maintained React applications, integrated APIs, created dashboards, and supported UI/UX improvements.
 
