@@ -78,13 +78,6 @@ Built and maintained React applications, integrated APIs, created dashboards, an
 
 ---
 
-## 📊 GitHub Insights
-
-![Shariful’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shariful7834&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariful7834&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
